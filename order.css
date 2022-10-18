@@ -1,0 +1,20 @@
+a{
+	background-color:black;
+	color:white;
+	display: inline-block;
+	border-radius:10px;
+	padding:5px 10px 5px 10px;
+}
+a:hover{
+	background-color:blue;
+}
+.order{
+	height:70%;
+	width: 100%;
+}
+.add{
+	padding: 15px 15px;
+	text-align: center;
+	cursor: pointer;
+	font-size: 15px;
+}

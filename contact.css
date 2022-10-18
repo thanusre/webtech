@@ -1,0 +1,25 @@
+a{
+	background-color:black;
+	color:white;
+	display: inline-block;
+	border-radius:10px;
+	padding:5px 10px 5px 10px;
+}
+a:hover{
+	background-color:blue;
+}
+body{
+	background-image: url(./images/contact.jpg);
+}
+.button{
+	background-color: #4CAF50;
+	color: white;
+	text-align:center;
+	padding: 18px 36px;
+	display: inline-block;
+}
+.queries{
+	padding: 20px 10px 20px 10px;
+	background-color: #2596be;
+	font-size: 25px;
+}
